@@ -1,0 +1,21 @@
+span{
+    display: block;
+    width: 120px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+td {
+    text-align:center
+    }
+#listName{
+    padding:3px 12px;
+    font-size:large;
+    color:#FF9900;
+}
+.focusColor {
+    border: 1px solid red;
+    outline: none; /*去点默认焦点边框色*/
+}
+
+

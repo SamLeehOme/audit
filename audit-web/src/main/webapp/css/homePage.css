@@ -1,0 +1,47 @@
+.div1 {
+    margin: 0 auto;
+    width: 45%;
+    height: 85%;
+    float: left;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+}
+
+.div2 {
+    margin: 0 auto;
+    width: 45%;
+    height: 85%;
+    float: right;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+}
+
+.div3 {
+    margin: 0 auto;
+    width: 45%;
+    height: 85%;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+    float: left;
+}
+
+.div4 {
+    margin: 0 auto;
+    width: 45%;
+    height: 85%;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
+    float: right;
+}
+
+.divFloat {
+    width: auto;
+    height: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+}
+
+.divFloat1 {
+    width: auto;
+    height: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 10px;
+}

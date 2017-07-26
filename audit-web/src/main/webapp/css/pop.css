@@ -1,0 +1,9 @@
+.pop{position: fixed;right:10px;bottom:10px;box-shadow: 0 5px 15px rgba(0,0,0,.5);}
+.popHead{background: #ff9900;width:260px;font-size:14px;padding: 10px;}
+.popClose{float: right;color: #ffffff;font-weight: bolder;}
+.popHead span{font-size: 15px;}
+.popContext{width: 260px;height: 79px;padding: 15px;word-wrap: break-word;word-break: normal;text-align: center;color: red;}
+.errorImg{text-align: center; margin-top: 15px;}
+#popHead span{color: #ffffff;font-weight: bolder;}
+#showTime{text-align: center;padding: 5px;}
+.secondFont{font-weight: bolder;color: red;}
