@@ -1,0 +1,7 @@
+.idea/
+*.iml
+*.class
+audit-persistence/target/
+audit-web/target/
+audit-api/target/
+audit-ws/target/
